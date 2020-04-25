@@ -1,7 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Web Site for the Book
+Xin-She Yang, Introdcution to Algorithms for Data Mining and Machine Learning, Academic Press/Elsevier, (2019).
+https://www.sciencedirect.com/book/9780128172162
 
-You can use the [editor on GitHub](https://github.com/Nature-Inspired-Algorithms/Algorithms4DataMining/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
