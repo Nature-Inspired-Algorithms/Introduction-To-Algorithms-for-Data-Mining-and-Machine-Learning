@@ -5,4 +5,4 @@ Xin-She Yang, Introdcution to Algorithms for Data Mining and Machine Learning, A
 https://www.sciencedirect.com/book/9780128172162/introduction-to-algorithms-for-data-mining-and-machine-learning
 
 
-## Lecture notes/slides are downloadable from the folder.
+## Lecture notes/slides are downloadable from this folder (see the above PDFs).
